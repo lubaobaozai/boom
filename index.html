@@ -11,11 +11,17 @@
         }
     </style>
 </head>
-</html><body>
+<body onclick="mimimi()">
 <h1>跟我一起学猫叫</h1>
 <h2>跟我一起喵喵喵喵喵</h2>
-</body>
+</body> 喵
+<span id="myNumber">1</span>
+
 <script>
-function mimimi(){}
+    var number= 1
+    function mimimi(){
+        document.getElementById("myNumber").innerHTML=number;
+        number = number+1;
+    }
 </script>
 </html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        html,body{
+            height: 100%;
+        }
+    </style>
+</head>
+<body onclick="go();">
+
+</body>
+<script>
+    function go(){
+        alert("今天也是元气满满的一天哟):
+        alert("元气满满的一天哟");
+        alert("满满的一天哟);
+        alert("的一天哟);
+        alert("一天哟);
+        alert("天哟);
+        alert("哟);
+    }
+</script>
+</html>

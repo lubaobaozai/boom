@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        html,body{
+            height: 100%;
+        }
+    </style>
+</head>
+<body onclick="alert('今天也是元气满满的一天哟');">
+点我呀
+
+</body>
+</html>
